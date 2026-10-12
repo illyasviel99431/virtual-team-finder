@@ -20,7 +20,9 @@ GitHub로 코드를 공유하고 관리하고, Figma로 디자인을 공유하�
 
 ## 협업 방식
 GitHub: 웹사이트 코드 공유 및 변경 사항 관리
+
 Figma: 디자인 작업 공유 및 의견 교환
+
 Notion: 기획 자료와 프로젝트 진행 내용 정리
 
 ## 사용 기술 및 도구
@@ -33,5 +35,8 @@ Notion: 기획 자료와 프로젝트 진행 내용 정리
 
 ## 링크
 [Figma — 디자인 작업 보기](https://www.figma.com/design/2JnSn64dcuTfsbYmykNfTG/%25EC%258C%2588%25EB%25BD%2595-%25EA%25B9%2594%25EB%25A1%25B1%25ED%2595%259C-%25EA%25B2%2583?node-id=11-358&p=f&t=rdG7j3K8FXb34kXn-0)
-[Notion — 프로젝트 기획 및 협업 기록](없어짐)
+
+[Notion — 프로젝트 기획 및 협업 기록](https://www.notion.so/280caab8544480728d94d6dea8b8f257)
+
 [GitHub — 팀원 GitHub](https://github.com/Modernia/poster)
+
