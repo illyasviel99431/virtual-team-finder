@@ -28,11 +28,13 @@ Figma: 디자인 작업 공유 및 의견 교환
 Notion: 기획 자료와 프로젝트 진행 내용 정리
 
 ## 사용 기술 및 도구
-웹 개발: HTML, CSS, JavaScript </br>
+웹 개발: HTML, CSS, JavaScript
+
 데이터 전송 및 연동: Fetch API, JSON, Google Apps Script </br>
 -> 지원자의 정보를 입력받아 유효성을 검사하고, Google Apps Script로 전송
 
-협업: GitHub, Figma, Notion </br>
+협업: GitHub, Figma, Notion
+
 제작 도구: Visual Studio
 
 ## 링크
