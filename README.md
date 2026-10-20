@@ -39,7 +39,7 @@ Notion: 기획 자료와 프로젝트 진행 내용 정리
 [Figma — 디자인 작업 보기](https://www.figma.com/design/2JnSn64dcuTfsbYmykNfTG/%25EC%258C%2588%25EB%25BD%2595-%25EA%25B9%2594%25EB%25A1%25B1%25ED%2595%259C-%25EA%25B2%2583?node-id=11-358&p=f&t=rdG7j3K8FXb34kXn-0)
 
 [Notion — 프로젝트 기획 및 협업 기록](https://www.notion.so/280caab8544480728d94d6dea8b8f257) 
-## 안내: 현제 Notion 문서가 과거 버전으로 표시되어 실제 프로젝트의 최종 기획 및 협업 기록과 일부 차이가 있습니다. 이에 따라 해당 문서는 현재 비공개 상태입니다.
+**안내: 현제 Notion 문서가 과거 버전으로 표시되어 실제 프로젝트의 최종 기획 및 협업 기록과 일부 차이가 있습니다. 이에 따라 해당 문서는 현재 비공개 상태입니다.**
 
 [GitHub — 팀원 GitHub](https://github.com/Modernia/poster)
 
